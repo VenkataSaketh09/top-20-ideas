@@ -32,6 +32,28 @@ function Hero() {
         <option value="Cyberpunk">Cyberpunk</option>
         <option value="Aqua">Aqua</option>
         <option value="Lemonade">Lemonade</option>
+        <option value="Valentine">Valentine</option>
+        <option value="Halloween">Halloween</option>
+        <option value="Garden">Garden</option>
+        <option value="Forest">Forest</option>
+        <option value="Lofi">Lofi</option>
+        <option value="Pastel">Pastel</option>
+        <option value="Fantasy">Fantasy</option>
+        <option value="Wireframe">Wireframe</option>
+        <option value="Black">Black</option>
+        <option value="Luxury">Luxury</option>
+        <option value="Dracula">Dracula</option>
+        <option value="CMYK">CMYK</option>
+        <option value="Autumn">Autumn</option>
+        <option value="Business">Business</option>
+        <option value="Acid">Acid</option>
+        <option value="Night">Night</option>
+        <option value="Coffee">Coffee</option>
+        <option value="Winter">Winter</option>
+        <option value="Dim">Dim</option>
+        <option value="Nord">Nord</option>
+        <option value="Sunset">Sunset</option>
+
       </select>
     </div>
   )

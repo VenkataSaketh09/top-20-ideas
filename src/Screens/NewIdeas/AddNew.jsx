@@ -5,7 +5,7 @@ import { ChevronLeft, Send, Info } from 'lucide-react';
 import { db } from '../../../utils';
 import { Ideas } from '../../../utils/schema';
 
-function AddNew() {
+function AddNew() { 
     const navigate = useNavigate();
     const [idea, setIdea] = useState('');
     const [username, setUsername] = useState('');

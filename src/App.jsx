@@ -4,7 +4,7 @@ import { ThemeContext } from './context/ThemeContext';
 import './App.css';
 
 function App() {
-  const [theme, setTheme] = useState('synthwave'); // Set a default theme like 'light' or 'dark'
+  const [theme, setTheme] = useState('light'); // Set a default theme like 'light' or 'dark'
   
   return (
     <ThemeContext.Provider value={{ theme, setTheme }}>
